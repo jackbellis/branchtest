@@ -31,8 +31,8 @@
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0aT-ps-yA0">
                                 <rect key="frame" x="67" y="140" width="152" height="54"/>
-                                <color key="backgroundColor" red="0.98039215690000003" green="0.1130155192" blue="0.3741221455" alpha="1" colorSpace="calibratedRGB"/>
-                                <state key="normal" title="red button">
+                                <color key="backgroundColor" red="0.1176470588" green="0.62745098040000002" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="blue">
                                     <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                             </button>
